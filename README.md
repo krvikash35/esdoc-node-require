@@ -24,6 +24,6 @@ const express = require('express');
 ```
 #### To
 ```
-import * as fs from 'fs';
-import * as express from 'express';
+import fs from 'fs';
+import express from 'express';
 ```
