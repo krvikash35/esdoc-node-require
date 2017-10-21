@@ -1,0 +1,19 @@
+{
+  "name": "esdoc-node-require",
+  "version": "1.0.0",
+  "description": "convert node require to es import so that esdoc does not complain about required variable in document coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysleaf/esdoc-node-require.git"
+  },
+  "author": "vikash kumar <krvikash35@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sysleaf/esdoc-node-require/issues"
+  },
+  "homepage": "https://github.com/sysleaf/esdoc-node-require#readme"
+}
