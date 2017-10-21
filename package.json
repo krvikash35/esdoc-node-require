@@ -1,6 +1,6 @@
 {
   "name": "esdoc-node-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert node require to es import so that esdoc does not complain about required variable in document coverage",
   "main": "index.js",
   "scripts": {
